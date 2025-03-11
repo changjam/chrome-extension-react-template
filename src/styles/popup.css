@@ -1,0 +1,18 @@
+/* Styles for the popup */
+.popup-container {
+  width: 300px;
+  min-height: 200px;
+  padding: 16px;
+}
+
+.counter {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
+
+.counter p {
+  margin-bottom: 10px;
+}
